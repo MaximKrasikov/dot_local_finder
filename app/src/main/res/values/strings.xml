@@ -1,0 +1,28 @@
+
+<resources>
+    <string name="app_name">.local Finder</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">Input local name</string>
+    <string name="action">Action</string>
+
+
+
+    <string name="send">Send</string>
+    <!--    <string name="main_value_placeholder">23.5°c</string>-->
+    <string name="main_value_placeholder">23.5</string>
+    <string name="oat_value_placeholder">-12.3</string>
+    <string name="sat_value_placeholder">24.7</string>
+    <string name="rat_value_placeholder">21.8</string>
+    <string name="eat_value_placeholder">22.4</string>
+    <string name="olat_value_placeholder">18.2</string>
+    <string name="rwt_value_placeholder">68.9</string>
+    <string name="activity_main_label">Main</string>
+    <string name="activity_main_menu_label">Main menu</string>
+    <string name="configurator_fragment_label">Configurator</string>
+    <string name="title_activity_network_select">NetworkSelectActivity</string>
+    <string name="network_list">Network list</string>
+    <string name="zero">0</string>
+
+
+
+</resources>
